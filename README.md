@@ -29,7 +29,7 @@ Development of programs to compute derivatives and optimize them.
 
 #### **Deliverables**  
 1. **Raw Code:**  
-   - Calculate \( f'(x) \) and \( f''(x) \) for \( f(x) = x \cdot e^x \) in the range \( x = 1.5 \) to \( x = 2.5 \) using:  
+   - Calculate \( f'(x) \) and \( f''(x) \) for \( f(x) = x*exp(x) in the range \( x = 1.5 \) to \( x = 2.5 \) using:  
      - Euler’s Method  
      - Runge-Kutta Method  
 
