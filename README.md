@@ -1,5 +1,5 @@
-# COMP312 - Principles of Computer Systems  
-**End Term Project - Final Assessment**  
+# Principles of Computer Systems  
+ 
 
 ---
 
